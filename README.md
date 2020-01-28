@@ -3,12 +3,25 @@
 You can find the project at [our Notion document](https://www.notion.so/Yelp-Dataset-Challenge-Labs-19-2c58ae1e609d480d806adb45f3fadf15).
 
 ## Contributors
-
-🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
-
-|                                       [Maxime Vacher-Materno](https://github.com/maximematerno)                                        |                                       [Navaneeth Visagan](https://github.com/nvisagan)                                        |                                       [Jason Murphy](https://github.com/biovir3)                                                                                                                      |
+|                                       [Maxime Vacher-Materno](https://github.com/maximematerno)                                        |                                       [Navaneeth Visagan](https://github.com/nvisagan)                                        |                                       [Jason Murphy](https://github.com/biovir3)                                        |                                                                              |                                                                              |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|                      [<img src="https://avatars3.githubusercontent.com/u/37785179?s=400&v=4" width = "200" />](https://github.com/maximematerno)                       |                      [<img src= "https://ca.slack-edge.com/T4JUEB3ME-ULXSN2E3Y-f0ccdecad793-512" width = "200" />](https://github.com/nvisagan)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UGTN60H8D-145a130154f9-512" width = "200" />](https://github.com/)                       |                                          
+|                      [<img src="https://avatars3.githubusercontent.com/u/37785179?s=400&v=4" width = "200" />](https://github.com/maximematerno)                       |                      [<img src= "https://ca.slack-edge.com/T4JUEB3ME-ULXSN2E3Y-f0ccdecad793-512" width = "200" />](https://github.com/nvisagan)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UGTN60H8D-145a130154f9-512" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/biovir3)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |
+|                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)            |          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)           |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)             |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
+
+
+![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
+![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](netlify link goes in these parenthesis)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
+
+
+![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
+![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](netlify link goes in these parenthesis)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+                                       
 
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)

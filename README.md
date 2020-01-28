@@ -66,8 +66,6 @@ NLP Sentiment Modeling , paticularly we are looking if we can predict the number
 
 ### Python Notebooks
 
-🚫  Add to or delete python notebook links as needed for your project
-
 [Intial Sentiment Analysis](https://github.com/Lambda-School-Labs/yelp-dataset-challenge-labs19.1/blob/master/SentimentAnalysis/SentimentVisuals.ipynb)
 
 [WordCount Cleaning](https://github.com/Lambda-School-Labs/yelp-dataset-challenge-labs19.1/blob/master/EDA%20for%20Sentiment%20Based%20on%20Word%20Count.ipynb)
